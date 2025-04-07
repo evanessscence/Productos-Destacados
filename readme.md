@@ -1,0 +1,5 @@
+# ¿Qué ajustes hiciste con DevTools y cómo mejoraron el diseño? 
+El cambio más significativo fueron los colores. Gracias al color picker integrado pude hacer un diseño más apegado con la imagen de la marca que estaba intentando representar. También, me permitió ver en tiempo real cómo se comportaba mi página web, así pude corregir cosas que no estaban centradas y mejorar el aspecto del menú. El diseño mejoró porque mi página se ve más acorde con la imagen de marca.
+
+# ¿Cómo refleja tu diseño un enfoque comercial efectivo?
+Mi diseño se enfoca en el segmento de mercado que busca atraer. La fuente del encabezado, por ejemplo, recuerda a época de Halloween, la cual está reflejada en los tres álbumes de los artistas que venden su mercancía, y esto hace ver a los clientes que la tienda está involucrada más allá de ser un medio para vender. La selección de colores concuerda con los colores de las prendas, y al ser un diseño uniforme, da una apariencia cohesiva.
