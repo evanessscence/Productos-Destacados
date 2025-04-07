@@ -1,7 +1,7 @@
 
 body {
     font-family: 'Segoe UI', Arial, sans-serif;
-    background-color: #fff0f6;
+    background-color: #666666;
     margin: 0;
     padding: 0;
     color: #333;
@@ -17,11 +17,11 @@ header h1 {
 }
 
 header {
-    background-color: #fc8eac;
+    background-color: #000000;
     color: white;
     padding: 30px;
     text-align: center;
-    border-bottom: 4px solid #fc8eac;
+    border-bottom: 4px solid #555555;
 }
 
 header img.logo {
@@ -47,6 +47,7 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
+    color: #ff2222;
 }
 
 
@@ -62,7 +63,7 @@ nav a:hover {
 .product-card {
     background-color: white;
     border-radius: 16px;
-    box-shadow: 0 8px 16px rgba(255, 105, 180, 0.2);
+    box-shadow: 0 8px 16px rgba(255, 105, 105, 0.2);
     padding: 20px;
     width: 250px;
     text-align: center;
@@ -70,7 +71,7 @@ nav a:hover {
 }
 
 .product-card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-6px);
 }
 
 
@@ -80,12 +81,12 @@ nav a:hover {
     object-fit: cover;
     border-radius: 12px;
     margin-bottom: 15px;
-    border: 3px solid #ffe6ef;
+    border: 3px solid #b4b4b44e;
 }
 
 
 button {
-    background-color: #ff85c1;
+    background-color: #b73c3c;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -96,7 +97,7 @@ button {
 }
 
 button:hover {
-    background-color: #ff4da6;
+    background-color: #ff2222;
     transform: scale(1.05);  
 }
 
@@ -105,15 +106,15 @@ button:hover {
     font-size: 18px;
     font-weight: bold;
     margin: 10px 0;
-    color: #ff4da6;
+    color: #b73c3c;
 }
 
 
 footer {
-    background-color: #fc8eac;
+    background-color: #b73c3c;
     color: white;
     text-align: center;
     padding: 15px 0;
-    margin-top: 40px;
-    border-top: 4px solid #fc8eac;
+    margin-top: 35px;
+    border-top: 4px solid #b73c3c;
 }
