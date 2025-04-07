@@ -1,0 +1,119 @@
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #fff0f6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header h1 {
+    font-family: "Henny Penny", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3em;
+    color: white;
+    margin: 0;
+}
+
+header {
+    background-color: #fc8eac;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    border-bottom: 4px solid #fc8eac;
+}
+
+header img.logo {
+    width: 10px; 
+    height: auto;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+.featured-products {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 40px 20px;
+    gap: 30px;
+}
+
+
+.product-card {
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 0 8px 16px rgba(255, 105, 180, 0.2);
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    transition: transform 0.2s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+}
+
+
+.product-card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    border: 3px solid #ffe6ef;
+}
+
+
+button {
+    background-color: #ff85c1;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;  /* Transición suave para color y escala */
+}
+
+button:hover {
+    background-color: #ff4da6; /* Cambio de color en hover */
+    transform: scale(1.05);  /* Efecto de escala (zoom) */
+}
+
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #ff4da6;
+}
+
+
+footer {
+    background-color: #fc8eac;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+    border-top: 4px solid #fc8eac;
+}
